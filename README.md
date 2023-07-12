@@ -131,9 +131,8 @@ I am a development enthusiast who believes that in this given dawn of an era, te
 ------
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dasika-Vaishnavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dasika-Vaishnavi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasika-Vaishnavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ------
 
